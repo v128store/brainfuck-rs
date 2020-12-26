@@ -2,7 +2,7 @@
 name = "brainfuck-rs"
 version = "0.1.0"
 authors = ["DEADBLACKCLOVER <deadblackclover@protonmail.com>"]
-description = "HQ9+ interpreter made using Rust"
+description = "Brainfuck interpreter made using Rust"
 edition = "2018"
 license = "GPL-3.0"
 readme = "README.md"
